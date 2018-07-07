@@ -49,8 +49,6 @@
 }
 
 
-
-
 .bj{
     background-image: url(http://img1.maka.im/user/3172877/images/98bad83314a7c46b5deb0239dc687819.jpg@0-0-640-1008a_80Q.src);
     position: relative;
@@ -90,7 +88,7 @@
 
 
 .f2{
-    height: 80vh;
+
     width: 90vw;
     background-color: white;
     position: absolute;
@@ -173,7 +171,7 @@
     padding-left: 1rem;
 }
 .dengpao{
-    margin:1rem 0 .2rem 70vw;
+    margin:0 0 .2rem 70vw;
     height: 2.2rem;
     width: 1.76rem;
 }
@@ -216,10 +214,9 @@
     width: 80vw;
     z-index: 8;
     padding-left: 1rem;
-
 }
 .f6-box2{
-    margin-top: 15vh;
+    margin-top: 10vh;
     width: 100vw;
     background-color: rgba(192, 221, 255, 0.6);
     position: relative;
@@ -261,9 +258,9 @@
 
 .foot-box{
     margin-top: 15vh;
-    height: 50vh;
     width: 100vw;
     background-color: rgba(255,192,192,.3);
+    padding-bottom: .2rem;
 }
 .weixin{
     height: 3rem;
